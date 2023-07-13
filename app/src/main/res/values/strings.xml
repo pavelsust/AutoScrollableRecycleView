@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestRecycleView</string>
+
+    <string-array name="list_array">
+        <item>What goes up and down but does not move?</item>
+        <item>Where should a 500 pound alien go?</item>
+    </string-array>
+
+</resources>
